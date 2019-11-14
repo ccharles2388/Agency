@@ -683,6 +683,8 @@ nav {
 
 #menu-instructions {
 	position: relative;
+	font-family: cursive;
+	color: black;
 	width: 40%;
 	height: 30%;
 	top: 25%;
